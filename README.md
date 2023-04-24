@@ -1,4 +1,4 @@
-# Team Project 2
+# Ijse.lk Clone
 
 # Version
 0.1.0
